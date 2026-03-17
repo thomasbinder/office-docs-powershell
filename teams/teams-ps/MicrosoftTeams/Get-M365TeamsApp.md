@@ -126,4 +126,4 @@ Properties:
 ## RELATED LINKS
 
 [Get-AllM365TeamsApps](https://learn.microsoft.com/powershell/module/microsoftteams/get-allm365teamsapps)
-[Update-M365TeamsApp](https://learn.microsoft.com/powershell/module/microsoftteams/get-allm365teamsapps)
+[Update-M365TeamsApp](https://learn.microsoft.com/powershell/module/microsoftteams/update-m365teamsapp)
